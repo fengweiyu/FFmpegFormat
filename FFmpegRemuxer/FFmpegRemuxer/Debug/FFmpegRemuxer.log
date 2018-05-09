@@ -1,0 +1,4 @@
+﻿  FFmpegRemuxer.cpp
+q:\ywf\work\ffmpeg\ffmpegremuxer\ffmpegremuxer\ffmpegremuxer\ffmpegremuxer.cpp(145): warning C4018: “<”: 有符号/无符号不匹配
+q:\ywf\work\ffmpeg\ffmpegremuxer\ffmpegremuxer\ffmpegremuxer\ffmpegremuxer.cpp(212): warning C4244: “=”: 从“int64_t”转换到“int”，可能丢失数据
+  FFmpegRemuxer.vcxproj -> Q:\ywf\work\FFMPEG\FFmpegRemuxer\FFmpegRemuxer\Debug\FFmpegRemuxer.exe
